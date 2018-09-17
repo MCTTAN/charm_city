@@ -1,0 +1,8 @@
+-"Surprise Me!" - Gives adventurous user random location of an artwork
+-"Suggestions" - Gives user locations where they can display/submit artworks
+-"Timeline" - Displays how a location/artwork has changed over time
+-"Share" - Allows users to share pictures on social media
+-"Archive" - Allows users to submit pictures to be considered for the "Timeline"
+-"Chatbot Tour Guide" - In addition to the animated tour guide we have already, let's program the tour guide to provide smart answers and recommendations
+-"Geographical Tag" - Displays location when user is near a public artwork (like SnapChat)
+-"AR Filter Camera" - Similar to SnapChat
